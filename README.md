@@ -10,20 +10,20 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  </tr>
  <tr>
  <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
- <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td>
+ <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">瘋子</a></td>
  <td><a href="">巨量資料處理</a></td>
  <td>陳蘋果日報</td>
  </tr>
  <tr>
  <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">可愛妹妹系</a></td>
- <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
+ <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">歐嗨唷</a></td>
  <td><a href="">資料視覺化</a></td>
  <td>謝米飛起來</td>
  </tr>
  
  <tr>
  <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">畫大餅系</a></td>
- <td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">海外移地教學</a></td>
+ <td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">樓中樓</a></td>
  <td><a href="">其他</a></td>
  <td>林俐滑倒</td>
  </tr> 
